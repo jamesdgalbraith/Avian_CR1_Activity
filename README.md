@@ -21,7 +21,7 @@ An outline of the scripts used to identify CR1s in avian genomes and determine i
 - Following BLASTN searches of related species from 100-600bp CR1s, species specific versions of smallOrthologueFinder.R (found in small_species_specific_ortho folder) were used to determine presence/absence of CR1s insertions in said related species
 
 ## References
-Galbraith et al. 2021, https://www.biorxiv.org/content/10.1101/2021.04.13.439746v1
+Galbraith JD, Kortschak RD, Suh A, Adelson DL, 2021. Genome stability is in the eye of the beholder: recent retrotransposon activity varies significantly across avian diversity. preprint available at https://www.biorxiv.org/content/10.1101/2021.04.13.439746v1
 
 Zeng L, Kortschak RD, Raison JM, Bertozzi T, Adelson DL. 2018. Superior ab initio identification, annotation and characterisation of TEs and segmental duplications from genome assemblies. PLoS One 13:e0193588.
 
